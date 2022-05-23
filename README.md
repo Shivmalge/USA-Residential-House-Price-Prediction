@@ -29,5 +29,35 @@ Over the time, the price of houses fluctuates. If I want to buy a house, underst
       approved for that mortgage. If the economy falls, however, more people find themselves laid off, having to live on 
       unemployment compensation or accept much lower paying jobs. If this problem arises fewer people are able to purchase 
       houses, competition for them goes away and motivated sellers must lower their asking price to get a sale. So due to this
-      house price would go down.
+      house price would go down. So Economy impacts the houses prices depending upon the unemployement rate. 
+      
+ ### 3. Interest Rates:
+                      Changes in interest rates can also impact housing prices. If interest rate is low, home prices tend to 
+      be high. There could be One reason for that and it is such that low interest rates encourage buyers, and the more buyers
+      there are, there would be more competetion for purchasing houses. A lower interest rate lets us borrow more without 
+      seeing a huge jump in our monthly mortgage payment. If  the interest rate will goes up, however, so does our monthly 
+      mortgage payment. If interest rates rise, houses become less affordable unless their prices come down.
+
+### 4. Political Forces:
+                        The national and local political climate also impacts housing prices. One big way is through tariffs.
+      Some of the materials required to build new homes get imported to the U.S. from other countries. If, for example, heavy
+      tariffs get imposed on foreign steel or lumber, the cost of building new homes increases. Tax laws also impact housing 
+      prices. As of 2018, homeowners can still deduct mortgage interest on loans of up to $750,000. If that were to change 
+      in the future, however, fewer people may have an incentive to buy, and home prices may go down. If more tax breaks are
+      created for homeowners, ownership may rise and take home prices along with it. 
+      
+      Local political issues, too, can impact housing prices. San Francisco, for example, has a very specific vibe that many 
+      of its citizens want to protect. One way they do so is by limiting the number and type of new homes that builders may
+      construct in certain parts of the city. As a result, the growing city is in a high demand for housing. The result has
+      been a drastic demand for housing with limited supply that has driven housing costs sky high.
+### 5. Area Desirability:
+                        While housing prices tend to rise and fall on a national level, you may live in a micro-climate that
+       defies the norm. Even though if housing prices fall across the nation, prices in some diffenent location across the country
+       may rise. This occurs due to desirability.If someone is living in an excellent school district or trendy area where 
+       people want to be, the price of houses in your area will likely go up. If a new manufacturing plant or large company 
+       brings jobs to a particular area, people may flock to the region, even if the population was small before.  If new 
+       housing isn't built fast enough to accommodate the influx of people, housing pries in the area will rise. Even if the 
+       supply of housing does keep pace with the demand, home's value may increase simply because people want to be where we are 
+       living in good area.
+       
                   

@@ -11,7 +11,7 @@ Over the time, the price of houses fluctuates. If I want to buy a house, underst
 ### 3. Interest Rates
 ### 4. Area Desirability
 ### 5. Political Forces
-### 6. Bay Area Room
+### 6. Bay Area Boom
 
 #### Let's see one by one how they will impact on house prices.
 
@@ -49,7 +49,8 @@ Over the time, the price of houses fluctuates. If I want to buy a house, underst
       Local political issues, too, can impact housing prices. San Francisco, for example, has a very specific vibe that many 
       of its citizens want to protect. One way they do so is by limiting the number and type of new homes that builders may
       construct in certain parts of the city. As a result, the growing city is in a high demand for housing. The result has
-      been a drastic demand for housing with limited supply that has driven housing costs sky high.
+      been a drastic demand for housing with limited supply that has driven housing costs sky high. 
+      
 ### 5. Area Desirability:
                         While housing prices tend to rise and fall on a national level, you may live in a micro-climate that
        defies the norm. Even though if housing prices fall across the nation, prices in some diffenent location across the country
@@ -59,5 +60,11 @@ Over the time, the price of houses fluctuates. If I want to buy a house, underst
        housing isn't built fast enough to accommodate the influx of people, housing pries in the area will rise. Even if the 
        supply of housing does keep pace with the demand, home's value may increase simply because people want to be where we are 
        living in good area.
+       
+       There could be some other factors in desirability that could affects the price.
+       1. Average Income of Area
+       2.
+
+
        
                   

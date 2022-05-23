@@ -9,9 +9,9 @@ Over the time, the price of houses fluctuates. If I want to buy a house, underst
 ### 1. Demand and Supply
 ### 2. The Economy
 ### 3. Interest Rates
-### 4. Area Desirability
-### 5. Political Forces
-### 6. Bay Area Boom
+### 4. Political Forces
+### 5. Bay Area Boom
+### 6. Area Desirability
 
 #### Let's see one by one how they will impact on house prices.
 
@@ -51,7 +51,13 @@ Over the time, the price of houses fluctuates. If I want to buy a house, underst
       construct in certain parts of the city. As a result, the growing city is in a high demand for housing. The result has
       been a drastic demand for housing with limited supply that has driven housing costs sky high. 
       
-### 5. Area Desirability:
+### 5. Bay Area Boom:
+                    Even with home prices rising across the nation between May of 2012 and 2018, the Bay Area has seen a much
+      higher rise than average. In 2018, the median sale price of homes in San Francisco reached $1.6 million. Prices have 
+      also climbed due to an influx of wealth into the city. 
+                      
+      
+### 6. Area Desirability:
                         While housing prices tend to rise and fall on a national level, you may live in a micro-climate that
        defies the norm. Even though if housing prices fall across the nation, prices in some diffenent location across the country
        may rise. This occurs due to desirability.If someone is living in an excellent school district or trendy area where 
@@ -63,7 +69,21 @@ Over the time, the price of houses fluctuates. If I want to buy a house, underst
        
        There could be some other factors in desirability that could affects the price.
        1. Average Income of Area
-       2.
+       2. Average Area House Age
+       3. House contains Number of Rooms
+       4. Number of Bedrooms in house
+       5. Area Population
+
+## By considering above five features and with one previous dataset of USA house price of particular areas, I have created one 
+## machine learning model.
+
+
+
+
+
+
+
+
 
 
        

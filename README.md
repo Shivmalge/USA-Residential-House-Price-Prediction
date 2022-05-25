@@ -16,7 +16,7 @@ Over the time, the price of houses fluctuates. If I want to buy a house, underst
 #### Let's see one by one how they will impact on house prices.
 
 ### 1. Demand and Supply:
-                        The housing market is subject to the same economic laws of supply and demand as every other industry. 
+                    The housing market is subject to the same economic laws of supply and demand as every other industry. 
       When there are more buyers than sellers, the supply of houses goes down and the demand goes up, making houses harder to 
       buy and more expensive. It's not just the amount of houses available, but also how much money is available to buy them.
       It is rare for a new homeowner to plunk down cash when buying a home. Instead, buyers use debt in the form of a mortgage.
@@ -24,15 +24,15 @@ Over the time, the price of houses fluctuates. If I want to buy a house, underst
       lending less, however, the price of the house will come down or it will sit on the market.
 
 ### 2. The Economy:
-                     If the economy is going strong and unemployment goes down, housing prices could rise. In a strong
+                    If the economy is going strong and unemployment goes down, housing prices could rise. In a strong
       economy, people feel more secure in their jobs and their ability to take on mortgage debt. They're also more likely 
       to get approved for that mortgage. If the economy falls, however, more people find themselves laid off, having to 
       live on unemployment compensation or accept much lower paying jobs. If this problem arises fewer people are able to 
       purchase houses, competition for them goes away and sellers must lower their asking price to get a sale. So due to 
       this house price would go down. So Economy impacts the houses prices as per the unemployement rate. 
       
- ### 3. Interest Rates:
-                     Changes in interest rates can also impact housing prices. If interest rate is low, home prices tend to 
+### 3. Interest Rates:
+                    Changes in interest rates can also impact housing prices. If interest rate is low, home prices tend to 
       be high. There could be One reason for that and it is such that low interest rates encourage buyers, and the more buyers
       there are, there would be more competetion for purchasing houses. A lower interest rate lets us borrow more without 
       seeing a huge jump in our monthly mortgage payment. If the interest rate will goes up, however, so does our monthly 
@@ -76,7 +76,10 @@ Over the time, the price of houses fluctuates. If I want to buy a house, underst
        4. Number of Bedrooms in house
        5. Area Population
 
-## By considering above five features and with one previous dataset of USA house price of particular areas, I have created one machine learning model in which I have predicted the House prices.
+## By considering above five features and with one previous dataset of USA house price of particular areas, I have created one machine learning model in which I have predicted    the House prices.
+
+
+
 
 
 

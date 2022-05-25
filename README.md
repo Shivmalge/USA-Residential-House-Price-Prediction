@@ -68,7 +68,6 @@ Over the time, the price of houses fluctuates. If I want to buy a house, underst
        living in good area.
       
       
-       
        There could be some other factors in desirability that could affects the price and these are:
        1. Average Income of Area
        2. Average Area House Age
@@ -77,7 +76,8 @@ Over the time, the price of houses fluctuates. If I want to buy a house, underst
        5. Area Population
 
 ## By considering above five features and with one previous dataset of USA house price of particular areas, I have created one machine learning model in which I have predicted    the House prices.
-
+  
+### 1. Average Income of Area: 
 
 
 

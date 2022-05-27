@@ -75,9 +75,30 @@ Over the time, the price of houses fluctuates. If I want to buy a house, underst
        4. Number of Bedrooms in house
        5. Area Population
 
-## By considering above five features and with one previous dataset of USA house price of particular areas, I have created one machine learning model in which I have predicted    the House prices.
-  
-### 1. Average Income of Area: 
+## By considering above five features and with one previous dataset of USA house price of particular areas, I have created one machine learning model in which I have predicted the House prices.
+
+## I have Imported all the required libraries and read the dataset using pandas.
+
+![image](https://user-images.githubusercontent.com/104545490/170655293-536574c8-e9a4-41bf-8e24-550069b15f82.png)
+
+## I have described and analyzed the dataset.
+
+![image](https://user-images.githubusercontent.com/104545490/170655495-f7d452b1-8487-4a5d-bcac-8376e64f486e.png)
+
+
+
+![image](https://user-images.githubusercontent.com/104545490/170655688-b578921f-960d-48ca-8a21-ca85e27c1fb6.png)
+
+![image](https://user-images.githubusercontent.com/104545490/170655888-963732b0-67bc-45da-9e1b-1f222234a18c.png)
+
+![image](https://user-images.githubusercontent.com/104545490/170655996-29a02650-b70c-4101-bca9-bb3cf3fb8a64.png)
+
+![image](https://user-images.githubusercontent.com/104545490/170656081-2e2e0502-8df6-47cd-9f0f-90304ec1a1d4.png)
+
+![image](https://user-images.githubusercontent.com/104545490/170656175-4c3604e1-7483-4598-a00a-887106ddadd2.png)
+
+![image](https://user-images.githubusercontent.com/104545490/170656486-792887b2-d0ee-4b3a-a607-43e0e0705696.png)
+
 
 
 

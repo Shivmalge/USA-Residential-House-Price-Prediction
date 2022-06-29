@@ -99,6 +99,12 @@ Over the time, the price of houses fluctuates. If I want to buy a house, underst
 
 ![image](https://user-images.githubusercontent.com/104545490/170656486-792887b2-d0ee-4b3a-a607-43e0e0705696.png)
 
+Project by - Shivsharan Malage
+
+[Github](https://github.com/Shivmalge)
+
+[Linkedin](https://www.linkedin.com/in/shivsharan-malage-99802a230/)
+
 
 
 
